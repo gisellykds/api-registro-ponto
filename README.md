@@ -1,4 +1,4 @@
-### Treinamento de Java - Avaliação Final - Sistema de Registro e Controle de Ponto
+### Sistema de Registro e Controle de Ponto
 Utilizando Java, Spring, Hibernate, Teste Unitário (Mockito, Junit & Fixture-factory), FeignClients, Design Pattern Facade e Git.
 
 ##### Link API Postman
